@@ -1,0 +1,29 @@
+:root {
+  --dark: #182c3b;
+  --darker: #09131b;
+}
+
+body {
+  background: var(--dark);
+}
+
+nav {
+  background: var(--darker);
+}
+
+#intro {
+  background-image: url('../img/background.png');
+}
+
+#projects h1 {
+  text-align: center;
+}
+
+.card:hover {
+  opacity: 75%;
+  cursor: pointer;
+}
+
+footer {
+  background: var(--darker);
+}

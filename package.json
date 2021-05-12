@@ -1,0 +1,25 @@
+{
+  "name": "my-portfolio-rev-2",
+  "version": "1.0.0",
+  "description": "Hello, I'm Alex, an up and coming Full-Stack Developer. I am currently attending the U.C. Berkeley Extension Full-time Full-Stack Flex Boot Camp. At my current stage, I have been able to show my competency in completing an assortment of different assignments, each highlighting my proficiency on the programming languages and additional javascript libraries that I can use.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AcedYu/my-portfolio-rev-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AcedYu/my-portfolio-rev-2/issues"
+  },
+  "homepage": "https://github.com/AcedYu/my-portfolio-rev-2#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.2"
+  }
+}
